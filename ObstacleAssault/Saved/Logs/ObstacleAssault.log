@@ -1299,3 +1299,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.18-13.00.36:868][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2023.01.18-13.00.36:894][562]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2023.01.18-13.01.50:293][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.18-13.25.36:035][373]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.107 and deleted 0 files with total size 0 MiB. Scanned 11861 files in 11299 folders with total size 329 MiB.
+[2023.01.18-13.31.57:494][516]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Voice Changer Virtual Audio Device (WDM)), InstanceID=1
+[2023.01.18-13.31.57:503][516]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20568
+[2023.01.18-13.31.57:820][517]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1aa01bff-c6a7-4dc2-b219-8920a78cd2f1}, Name=Speakers (Voice Changer Virtual Audio Device (WDM))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=109.19
+[2023.01.18-13.31.57:820][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.18-13.31.57:821][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.18-14.25.36:011][170]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.083 and deleted 0 files with total size 0 MiB. Scanned 11861 files in 11299 folders with total size 329 MiB.
+[2023.01.18-15.25.36:013][968]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.085 and deleted 0 files with total size 0 MiB. Scanned 11861 files in 11299 folders with total size 329 MiB.
+[2023.01.18-16.25.36:012][765]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.084 and deleted 0 files with total size 0 MiB. Scanned 11861 files in 11299 folders with total size 329 MiB.
+[2023.01.18-17.25.36:008][563]LogDerivedDataCache: C:/Users/Kuroha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.079 and deleted 0 files with total size 0 MiB. Scanned 11861 files in 11299 folders with total size 329 MiB.
+[2023.01.18-18.17.23:803][881]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW2521HF (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.18-18.17.24:263][881]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20568
+[2023.01.18-18.17.24:594][882]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bb332c8d-48c4-48cd-9650-3a8c9a53ff93}, Name=AW2521HF (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=197.31
+[2023.01.18-18.17.24:594][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.18-18.17.24:594][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
